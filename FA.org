@@ -1,0 +1,17 @@
+#+STARTUP: contents
+#+STARTUP: hidestars
+#+TITLE: Flow Assurance Basics
+#+AUTHOR: Alen Alex Ninan
+#+OPTIONS: toc:2
+
+* Multiphase simulations.
+* Sand Depositions.
+* Navier Stokes equations.
+* Wax Deposition.
+* Scale deposition.
+* Pigging operation. 
+* Reservoir Basics. 
+** IPR Curves.
+** Permeabilty
+** 
+* 
